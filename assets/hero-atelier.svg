@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Молодой автор работает над рукописью</title>
+  <desc id="desc">Художественная иллюстрация творческой мастерской с автором, столом, книгами и окном</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#dff8eb"/></linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0755e8"/><stop offset="1" stop-color="#002d88"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#002d88" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="900" height="760" rx="56" fill="url(#wall)"/>
+  <path d="M0 585Q210 530 430 590T900 545V760H0Z" fill="#002d88"/>
+  <rect x="94" y="86" width="304" height="322" rx="150" fill="url(#window)" stroke="#ffffff" stroke-width="10"/>
+  <path d="M246 91V405M99 247H393" stroke="#ffffff" stroke-width="7" opacity=".75"/>
+  <circle cx="174" cy="157" r="34" fill="#ffffff"/><circle cx="191" cy="146" r="34" fill="#0755e8"/>
+  <g fill="#ffffff"><circle cx="302" cy="148" r="5"/><circle cx="344" cy="191" r="3"/><circle cx="138" cy="297" r="4"/><circle cx="278" cy="324" r="3"/></g>
+  <path d="M524 75c36 29 47 68 34 117" fill="none" stroke="#ed1c2e" stroke-width="6" stroke-linecap="round"/>
+  <path d="M559 97c23-20 55-16 69 5-27 6-51 5-69-5ZM558 135c34-10 60 5 67 30-29-3-51-13-67-30Z" fill="#00a957"/>
+  <g filter="url(#shadow)">
+    <path d="M364 525h422l-50 76H325Z" fill="#ed1c2e"/><path d="M405 584h322l36 176H370Z" fill="#c91424"/>
+    <path d="M479 477c-40-80-28-159 28-198 50-35 126-4 139 57 11 55-30 91-67 111l-9 53Z" fill="#ed1c2e"/>
+    <path d="M498 283c44-58 139-22 151 47 4 22-2 45-18 64-13-58-54-91-133-111Z" fill="#002d88"/>
+    <path d="M457 476c57-41 153-35 198 8l-28 101H425Z" fill="#00a957"/><path d="M518 465c35 24 68 28 102 4l-17 89h-91Z" fill="#ffffff"/>
+    <path d="M465 498c-30 12-62 34-95 63l36 26c37-25 73-41 108-47Z" fill="#ed1c2e"/><path d="M421 535c25 5 41 20 48 43-38-4-61-18-71-38Z" fill="#002d88"/>
+    <path d="M618 516c38-9 71 0 98 28l-30 37c-29-18-58-28-88-31Z" fill="#ed1c2e"/>
+  </g>
+  <g transform="rotate(-6 520 584)" filter="url(#shadow)"><rect x="414" y="525" width="244" height="159" rx="8" fill="#ffffff"/><path d="M446 563h148M446 586h173M446 609h114M446 632h157" stroke="#0755e8" stroke-width="4" stroke-linecap="round"/><path d="M600 538l31 8-45 62-13 5 3-14Z" fill="#00a957"/></g>
+  <g transform="translate(676 437)"><path d="M0 87h88l-9 60H10Z" fill="#ffffff"/><path d="M20 88c-2-43 21-72 50-88M46 88c-8-32-4-55 10-75" fill="none" stroke="#007c42" stroke-width="9" stroke-linecap="round"/><path d="M56 30c22-13 47-7 54 15-26 9-44 4-54-15ZM25 52C7 34-17 37-28 55-7 71 11 70 25 52Z" fill="#00a957"/></g>
+  <g fill="#ed1c2e"><path d="m74 491 8 18 18 8-18 8-8 18-8-18-18-8 18-8Z"/><circle cx="807" cy="173" r="9"/><circle cx="752" cy="242" r="5"/></g>
+</svg>

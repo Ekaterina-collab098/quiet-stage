@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" role="img" aria-labelledby="title desc">
+  <title id="title">Выбор следующего шага</title><desc id="desc">Автор стоит у указателей и самостоятельно выбирает дальнейший путь произведения</desc>
+  <rect width="520" height="380" rx="28" fill="#e8fbf1"/>
+  <path d="M0 318c138-51 312-40 520 2v60H0Z" fill="#00a957"/>
+  <path d="M306 75v255" stroke="#002d88" stroke-width="12"/>
+  <path d="M306 94h147l35 34-35 34H306Z" fill="#0755e8" stroke="#002d88" stroke-width="5"/><path d="M306 175H191l-35 34 35 34h115Z" fill="#ed1c2e" stroke="#002d88" stroke-width="5"/><path d="M306 256h139l32 31-32 31H306Z" fill="#fff" stroke="#002d88" stroke-width="5"/>
+  <g fill="#fff" font-family="Arial,sans-serif" font-size="19" font-weight="700"><text x="330" y="135">ЭКСПЕРТЫ</text><text x="190" y="216">ДОРАБОТАТЬ</text></g><text x="330" y="294" fill="#002d88" font-family="Arial,sans-serif" font-size="17" font-weight="700">ПАУЗА</text>
+  <circle cx="104" cy="129" r="47" fill="#ed1c2e"/><path d="M59 126c13-62 94-62 103 4-39-17-73-18-103-4Z" fill="#002d88"/><path d="M41 326c3-101 30-153 65-153 40 0 67 52 72 153Z" fill="#0755e8"/><path d="M136 214c39 16 74 16 105 0l11 38c-43 21-87 21-131-1Z" fill="#fff"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" role="img" aria-labelledby="title desc">
+  <title id="title">Бережный отзыв</title><desc id="desc">Модератор читает рукопись и пишет структурированный комментарий</desc>
+  <rect width="520" height="380" rx="28" fill="#fff0f1"/>
+  <circle cx="390" cy="94" r="52" fill="#0755e8"/>
+  <path d="M340 91c18-65 101-63 112 0-44-11-79-11-112 0Z" fill="#002d88"/>
+  <path d="M296 329c5-112 42-168 98-168 58 0 94 56 101 168Z" fill="#ed1c2e"/>
+  <path d="M335 218c-45 2-85 23-119 61l35 29c39-31 72-43 101-35Z" fill="#0755e8"/>
+  <g transform="rotate(-4 180 190)"><rect x="50" y="50" width="246" height="270" rx="16" fill="#fff" stroke="#002d88" stroke-width="6"/><path d="M84 93h135M84 123h172M84 153h145M84 183h166" stroke="#0755e8" stroke-width="7" stroke-linecap="round"/><rect x="78" y="222" width="188" height="62" rx="12" fill="#dff8eb"/><path d="m100 253 15 15 35-42" fill="none" stroke="#00a957" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M169 248h70M169 269h45" stroke="#00a957" stroke-width="6" stroke-linecap="round"/></g>
+  <path d="m264 275 20-5 39 47-18 14Z" fill="#fff" stroke="#002d88" stroke-width="5"/>
+  <circle cx="61" cy="63" r="13" fill="#00a957"/><circle cx="278" cy="57" r="8" fill="#ed1c2e"/>
+</svg>

@@ -1,0 +1,29 @@
+.lookup-card {
+  align-items: flex-end;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 20px;
+  padding: 24px;
+}
+
+.lookup-card label {
+  flex: 1;
+  margin: 0;
+  min-width: 260px;
+}
+
+.lookup-card .form-error {
+  margin: 0;
+  width: 100%;
+}
+
+.moderator-login {
+  max-width: 520px;
+}
+
+@media (max-width: 460px) {
+  .lookup-card label {
+    min-width: 100%;
+  }
+}

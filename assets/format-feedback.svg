@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title">
+  <title id="title">Бережный письменный отзыв</title>
+  <rect width="640" height="460" rx="36" fill="#eaf1ff"/><path d="M0 329c173-70 380-73 640 21v110H0Z" fill="#00a957"/>
+  <g transform="translate(123 60) rotate(5 190 160)"><rect width="394" height="315" rx="22" fill="#fffaf0"/><circle cx="61" cy="65" r="26" fill="#d98568"/><path d="m51 65 8 8 15-19" fill="none" stroke="#fffaf0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M105 55h211M105 76h151" stroke="#c1bbae" stroke-width="5" stroke-linecap="round"/><path d="M43 124h307M43 151h259M43 178h283" stroke="#d8d2c7" stroke-width="5" stroke-linecap="round"/><rect x="42" y="222" width="310" height="52" rx="12" fill="#e8eee9"/><path d="M65 248h219" stroke="#72988e" stroke-width="5" stroke-linecap="round"/></g>
+  <path d="M67 358c62-61 119-53 169-3l-36 67H98Z" fill="#ed1c2e"/><path d="M575 376c-49-61-101-61-154-16l29 69h98Z" fill="#ed1c2e"/><path d="m555 67 8 18 19 8-19 8-8 19-8-19-18-8 18-8Z" fill="#0755e8"/>
+</svg>

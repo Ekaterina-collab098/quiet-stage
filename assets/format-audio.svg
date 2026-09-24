@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title">
+  <title id="title">Микрофон, наушники и звуковая волна</title>
+  <rect width="640" height="460" rx="36" fill="#fff0f1"/><circle cx="128" cy="122" r="87" fill="#ed1c2e"/><circle cx="517" cy="339" r="136" fill="#00a957"/>
+  <g transform="translate(218 65)"><rect x="55" y="0" width="112" height="236" rx="56" fill="#002d88"/><rect x="76" y="28" width="70" height="136" rx="35" fill="#ffffff"/><g stroke="#002d88" stroke-width="8"><path d="M89 58h44M84 86h54M84 114h54M89 142h44"/></g><path d="M17 137v31c0 75 42 111 94 111s94-36 94-111v-31" fill="none" stroke="#002d88" stroke-width="18" stroke-linecap="round"/><path d="M111 279v58M45 337h132" stroke="#002d88" stroke-width="18" stroke-linecap="round"/></g>
+  <g fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"><path d="M40 264v-35M67 285v-77M94 273v-53M546 170v-42M573 192v-87M600 172v-47"/></g><g fill="#002d88"><circle cx="79" cy="99" r="7"/><circle cx="102" cy="74" r="4"/><circle cx="554" cy="71" r="8"/></g>
+</svg>

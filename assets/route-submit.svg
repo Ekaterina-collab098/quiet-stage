@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" role="img" aria-labelledby="title desc">
+  <title id="title">Передача произведения</title><desc id="desc">Автор за компьютером загружает лист с текстом через защищенную форму</desc>
+  <rect width="520" height="380" rx="28" fill="#eaf1ff"/>
+  <rect x="245" y="58" width="230" height="190" rx="18" fill="#0755e8" stroke="#002d88" stroke-width="6"/>
+  <rect x="268" y="82" width="184" height="138" rx="8" fill="#fff"/>
+  <path d="M296 112h78M296 136h125M296 160h98" stroke="#0755e8" stroke-width="8" stroke-linecap="round"/>
+  <rect x="315" y="181" width="89" height="25" rx="12" fill="#00a957"/>
+  <path d="M360 194v-34m0 0-15 15m15-15 15 15" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M214 247h284l-31 53H184Z" fill="#002d88"/>
+  <circle cx="125" cy="117" r="50" fill="#ed1c2e"/>
+  <path d="M76 113c9-54 89-69 112-13 8 19 5 38-6 56-19-39-51-53-106-43Z" fill="#002d88"/>
+  <path d="M61 312c4-91 38-140 94-140s89 49 94 140Z" fill="#00a957"/>
+  <path d="M156 207c34-5 69 8 106 40l-29 33c-39-24-71-31-96-20Z" fill="#ed1c2e"/>
+  <rect x="186" y="202" width="72" height="94" rx="5" fill="#fff" transform="rotate(14 186 202)"/>
+  <path d="m190 223 48 12m-54 10 48 12m-53 9 34 9" stroke="#0755e8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M45 313h430" stroke="#002d88" stroke-width="8" stroke-linecap="round"/>
+</svg>
